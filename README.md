@@ -6,7 +6,7 @@ This Template created with [Temply] by [Sweefty.com].
 
 # Demo
 
-[Bread Demo](http://sweefty.com/templates/breeze)
+[Breeze Demo](http://sweefty.com/templates/breeze)
 
 ### libraries
 
