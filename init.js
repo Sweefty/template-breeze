@@ -1,11 +1,11 @@
-//handlebars partials
-exports.partials = {};
+//exports.outLocation = '';
 
-//handlebars helpers
-exports.helpers = {
-    test : function(arg1){}
+//handlebars object
+exports.handlebars = function(Handlebars){
+
 };
 
+//global data
 exports.data = {
     "javascript" : [
         "./assets/js/jquery.sticky.js"
